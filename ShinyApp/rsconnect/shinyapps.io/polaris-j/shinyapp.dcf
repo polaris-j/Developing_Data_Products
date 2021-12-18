@@ -1,0 +1,13 @@
+name: shinyapp
+title:
+username:
+account: polaris-j
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5346675
+bundleId: 5388736
+url: https://polaris-j.shinyapps.io/shinyapp/
+when: 1639861328.68684
+lastSyncTime: 1639861328.68684
+asMultiple: FALSE
+asStatic: FALSE
